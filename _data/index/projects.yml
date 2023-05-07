@@ -1,0 +1,24 @@
+
+- name: Fraudulent Transaction Detection
+  gh_user: ayush-2501
+  repo: Fraudulent-Transaction-Detection
+  img: /static/assets/img/landing/ftd.jpg 
+  desc: Machine learning model for predicting fraudulent transactions. 
+
+- name: Chest Radiography Image Analysis for Covid
+  gh_user: ayush-2501
+  repo: Covid-19-Detection-Using-Radiography-Images
+  img: /static/assets/img/landing/covid.jpg 
+  desc: VGG19 model to detect COVID infected lungs using chest radiography images.  
+
+- name: AI Nutrition Bot
+  gh_user: ayush-2501
+  repo: Nutrition-Bot
+  img: /static/assets/img/landing/aibot.jpg
+  desc: A Nutrition Bot that can provide meal plans based on users requirements.  
+
+- name: NYC Taxi Fare Prediction
+  gh_user: ayush-2501
+  repo: Taxi-Fare-Prediction
+  img: /static/assets/img/landing/nyc.jpg
+  desc: A Machine Learning model overcomes the drawbacks of current approaches.

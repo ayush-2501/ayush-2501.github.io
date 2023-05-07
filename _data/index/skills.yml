@@ -1,0 +1,7 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, SQL, Tableau, OpenAI-Langchain, Scikit-Learn, TensorFlow, NumPy, Git, Plotly 
+percentage: 90, 80, 75, 85, 85, 80, 85, 80, 90
+

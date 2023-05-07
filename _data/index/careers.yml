@@ -1,0 +1,72 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: SUNY-Binghamton University
+    i18n: company_a
+  desc:
+    detail: Master's of Science in Computer Science. GPA - 4.0/4.0   
+    i18n: company_a_desc
+  date:
+    detail: Aug 2023 - May 2025
+    i18n: company_a_date
+  job:
+    detail: Graduate Student
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: BrandTouch & Analytics Pvt Ltd
+    i18n: company_a
+  desc:
+    detail: Developed two AI projects implementing OpenAI technologies that assisted our company's breakthrough into the AI market. The first project was an AI QA bot that can answer queries and offer summaries based on the Indian Constitution, and the second was an AI Diet bot that recommends tailored diet regimens.  
+    i18n: company_a_desc
+  date:
+    detail: Sep 2022 - June 2023
+    i18n: company_a_date
+  job:
+    detail: Data Analyst Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Dezignolics Web and Software Solutions
+    i18n: company_a
+  desc:
+    detail: As an intern, I worked on two machine learning projects, one aimed at predicting the yearly amount spent by users on an e-commerce platform using features such as time spent on the application and website, length of membership, and others, and the other aimed at predicting house prices in the USA using features such as area income, number of rooms, and age of house.  
+    i18n: company_a_desc
+  date:
+    detail: Feb 2021 - Mar 2021
+    i18n: company_a_date
+  job:
+    detail: Machine Learning Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Trivia Softwares - India
+    i18n: company_a
+  desc:
+    detail: Designed an enhanced version of existing Student Management System with Python 3.8 technology, leading in a considerable increase in student performance Visualization and Record management.  
+    i18n: company_a_desc
+  date:
+    detail: Dec 2020 - Feb 2021
+    i18n: company_a_date
+  job:
+    detail: Python Developer Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Mumbai
+    i18n: company_b
+  desc:
+    detail: Graduated with a Bachelor of Engineering in Computer engineering. GPA - 7.95/10
+    i18n: company_b_desc
+  date:
+    detail: Aug 2018 - May 2022
+    i18n: company_b_date
+  job:
+    detail: Undergraduate Student
+    i18n: company_b_job
+  icon: fa-plus-square

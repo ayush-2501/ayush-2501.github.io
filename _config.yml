@@ -19,7 +19,7 @@ author:  # change following line to your infomation.
   github_username: ayush-2501  # Leave blank if you don't have now
   linkedin_id: ayushpradhan2501 # Leave blank if you don't have now
   facebook_username: blaze.ayush
-  email: apradhan@binghamton.edu  # Leave blank if you don't have now
+  email: ayushpradh@csu.fullerton.edu  # Leave blank if you don't have now
   cv:  /static/assets/CV_Ayush.pdf # An online CV can be printed as PDF, leave blank if you don't have now # TO ADD
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-java-bold
     - name: icon-shell
-  desc: Hello there, Welcome to my portfolio! I am a graduate student in Computer Science at SUNY Binghamton University. I am fascinated by artificial intelligence and would be delighted to work with you on any intriguing project. I have a year of professional Data Analyst experience in the business as an Intern. Academically, I prefer conducting research in order to investigate and validate new concepts. If you want to talk about my work, connect with me on <a href="https://www.linkedin.com/in/ayushpradhan2501/">Linkedin</a>. In my spare time, I enjoy swimming and listening to music.
+  desc: Hello there, Welcome to my portfolio! I am a computer science graduate student at California State University, Fullerton. I am interested by artificial intelligence and would be pleased to collaborate with you on any exciting project. As an Intern, I gained a year of professional Data Analyst experience in the firm. Academically, I prefer to undertake research to study and validate new ideas. Connect with me on <a href="https://www.linkedin.com/in/ayushpradhan2501/">Linkedin</a> if you want to discuss my work. In my leisure time, I like to swim and listen to music.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

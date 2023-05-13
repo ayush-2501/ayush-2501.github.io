@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: SUNY-Binghamton University
+    detail: California State University, Fullerton
     i18n: company_a
   desc:
     detail: Master's of Science in Computer Science. GPA - 4.0/4.0   
